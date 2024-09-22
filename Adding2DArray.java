@@ -15,3 +15,9 @@ public class Adding2DArray {
             System.out.println();
         }
 }   }}
+
+/*
+2 6 8 
+4 8 6 
+4 6 9 
+*/
